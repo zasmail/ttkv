@@ -4,10 +4,10 @@
 
 Write a class with two methods: put and get
 
-##PUT
+## PUT
 Given a key and value, store the pair with a timestamp associated with this action
 
-##Get
+## Get
 Given a key and timestamp, retrieve the value associated with the value at that time. If timestamp is nil, retrieve last value.
 
 ##Get with time interval
